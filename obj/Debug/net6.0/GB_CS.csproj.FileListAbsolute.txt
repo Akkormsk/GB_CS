@@ -1,0 +1,15 @@
+C:\Users\d_kor\cs_projects\GB_CS\obj\Debug\net6.0\GB_CS.csproj.AssemblyReference.cache
+C:\Users\d_kor\cs_projects\GB_CS\obj\Debug\net6.0\GB_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d_kor\cs_projects\GB_CS\obj\Debug\net6.0\GB_CS.AssemblyInfoInputs.cache
+C:\Users\d_kor\cs_projects\GB_CS\obj\Debug\net6.0\GB_CS.AssemblyInfo.cs
+C:\Users\d_kor\cs_projects\GB_CS\obj\Debug\net6.0\GB_CS.csproj.CoreCompileInputs.cache
+C:\Users\d_kor\cs_projects\GB_CS\bin\Debug\net6.0\GB_CS.exe
+C:\Users\d_kor\cs_projects\GB_CS\bin\Debug\net6.0\GB_CS.deps.json
+C:\Users\d_kor\cs_projects\GB_CS\bin\Debug\net6.0\GB_CS.runtimeconfig.json
+C:\Users\d_kor\cs_projects\GB_CS\bin\Debug\net6.0\GB_CS.dll
+C:\Users\d_kor\cs_projects\GB_CS\bin\Debug\net6.0\GB_CS.pdb
+C:\Users\d_kor\cs_projects\GB_CS\obj\Debug\net6.0\GB_CS.dll
+C:\Users\d_kor\cs_projects\GB_CS\obj\Debug\net6.0\refint\GB_CS.dll
+C:\Users\d_kor\cs_projects\GB_CS\obj\Debug\net6.0\GB_CS.pdb
+C:\Users\d_kor\cs_projects\GB_CS\obj\Debug\net6.0\GB_CS.genruntimeconfig.cache
+C:\Users\d_kor\cs_projects\GB_CS\obj\Debug\net6.0\ref\GB_CS.dll
